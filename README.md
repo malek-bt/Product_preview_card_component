@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]()
+- Solution URL: [Github](https://github.com/malek-bt/Product_preview_card_component)
 - Live Site URL: [Live]()
 
 ## My process
