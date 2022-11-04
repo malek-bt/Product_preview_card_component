@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@hatemhenchir](https://www.frontendmentor.io/profile/malek-bt)
+- Frontend Mentor - [@malekbentaher](https://www.frontendmentor.io/profile/malek-bt)
 
